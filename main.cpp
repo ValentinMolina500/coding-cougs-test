@@ -7,6 +7,11 @@ int memcpy()
     return 42;
 }
 
+int fibonacci()
+{
+    return 0;
+}
+
 int main(int argc, char **argv) 
 {
     int x = 9;
