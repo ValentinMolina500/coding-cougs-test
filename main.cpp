@@ -12,6 +12,10 @@ int fibonacci()
     return 0;
 }
 
+string foo() {
+    return "bar";
+}
+
 int main(int argc, char **argv) 
 {
     int x = 9;
